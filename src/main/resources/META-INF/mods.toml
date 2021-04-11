@@ -4,7 +4,7 @@ license="GNU General Public License V3"
 issueTrackerURL="https://github.com/PugsMods/RandomDeathMessage/issues"
 [[mods]]
 modId="randomdeathmessage"
-version="1.0.0DEVBUILD"
+version="1.0.0"
 displayName="Example Mod"
 #updateJSONURL="https://change.me.example.invalid/updates.json"
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
