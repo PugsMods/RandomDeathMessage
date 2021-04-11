@@ -4,7 +4,9 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "randomdeathmessage.refmap.json",
   "mixins": [
-    "DeathMsgRandomizer"
+    "EntityDamageSrc",
+    "FallOutOfWorld",
+    "IndirectEntityDamageSrc"
   ],
   "minVersion": "0.8"
 }
