@@ -21,6 +21,6 @@ public class FallOutOfWorld {
         String[] arr = {"wasted","game_over","ditch","fail","stop_trying","oof","throw","eject","killed","gravity","huston","flight","cooked","stupid"};
         String s = "death.rdm.";
         String s1 = s + arr[index.nextInt(arr.length)];
-        return new TranslationTextComponent(s1);
+        return new TranslationTextComponent(s1, p_151519_1_.getDisplayName());
     }
 }
