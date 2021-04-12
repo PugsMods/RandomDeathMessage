@@ -5,6 +5,7 @@
   "refmap": "randomdeathmessage.refmap.json",
   "mixins": [
     "EntityDamageSrc",
-    "FallOutOfWorld"],
+    "FallOutOfWorld"
+  ],
   "minVersion": "0.8"
 }

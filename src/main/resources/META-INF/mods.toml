@@ -1,26 +1,26 @@
 modLoader="javafml"
-loaderVersion="[36,)"
+loaderVersion="[32,)"
 license="GNU General Public License V3"
 issueTrackerURL="https://github.com/PugsMods/RandomDeathMessage/issues"
 [[mods]]
 modId="randomdeathmessage"
 version="1.0.0"
 displayName="Example Mod"
-#updateJSONURL="https://change.me.example.invalid/updates.json"
-#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
-logoFile="examplemod.png"
+updateJSONURL="https://raw.githubusercontent.com/PugsMods/RandomDeathMessage/master/src/main/java/com/putopug/randomdeathmessage/update.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage"
+logoFile="RDM.png"
 credits="My Pc - Letting me Mod"
 authors="PugzAreCure"
 description=''''''
 [[dependencies.randomdeathmessage]]
     modId="forge"
     mandatory=true
-    versionRange="[36,)"
+    versionRange="[32,37)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.randomdeathmessage]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5,1.17)"
+    versionRange="[1.16,1.17)"
     ordering="NONE"
     side="BOTH"
