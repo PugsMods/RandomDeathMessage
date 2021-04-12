@@ -13,8 +13,15 @@
   "death.rdm.flight": "%1$s Boarded The Wrong Flight. This One Goes To The Sun",
   "death.rdm.cooked": "%1$s is well done",
   "death.rdm.stupid": "%1$s Died Due To %1$s's Stupidity",
+  "death.rdm.med": "%1$s Forgot Their Medicines",
+  "death.rdm.404": "404 - Life Not Found",
+  "death.rdm.high_sugar": "%1$s ate Too Much Sugar",
+  "death.rdm.f": "F",
+  "death.rdm.kick": "%1$s Has Been Kicked",
+  "death.rdm.timeout": "%1$s Failed to live. Expected cause: USER_FORGOT_PASSWORD",
+  "death.rdm.drill_forgot": "%1$s Forgot to turn off the drill and tunneled till the sun",
+  "death.rdm.no_breath": "Wait, %1$s Cant breathe here!",
+  "death.rdm.tp500": "/tp %1$s ~ 500 ~",
   "death.rdm.UNUSED_1": "",
-  "death.rdm.UNUSED_2": "",
-  "death.rdm.UNUSED_3": "",
-  "death.rdm.UNUSED_4": ""
+  "death.rdm.UNUSED_2": ""
 }
