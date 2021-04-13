@@ -20,11 +20,12 @@ public class EntityDamageSrc {
     }
     /**
      * @author PutoPug/PugzAreCute
+     * @reason Randomize death messages
      */
     @Overwrite
     public ITextComponent getLocalizedDeathMessage(LivingEntity p_151519_1_) {
         Random index = new Random();
-        String[] arr = {"wasted","game_over","ditch","fail","stop_trying","oof","throw","eject","killed","gravity","huston","flight","cooked","stupid"};
+        String[] arr = {"wasted","game_over","ditch","fail","stop_trying","oof","throw","eject","killed","gravity","huston","flight","cooked","stupid","med","404","high_sugar","f","kick","timeout","drill_forgot","no_breath","tp500"};
         String s = "death.rdm.";
         String s1 = s + arr[index.nextInt(arr.length)];
         ItemStack itemstack = this.entity instanceof LivingEntity ? ((LivingEntity)this.entity).getMainHandItem() : ItemStack.EMPTY;

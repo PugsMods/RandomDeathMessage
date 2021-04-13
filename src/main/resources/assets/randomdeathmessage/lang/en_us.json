@@ -23,5 +23,6 @@
   "death.rdm.no_breath": "Wait, %1$s Cant breathe here!",
   "death.rdm.tp500": "/tp %1$s ~ 500 ~",
   "death.rdm.UNUSED_1": "",
-  "death.rdm.UNUSED_2": ""
+  "death.rdm.UNUSED_2": "",
+  "rdm.smartcode.deathmsg_array": ["wasted","game_over","ditch","fail","stop_trying","oof","throw","eject","killed","gravity","huston","flight","cooked","stupid","med","404","high_sugar","f","kick","timeout","drill_forgot","no_breath","tp500","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
 }
