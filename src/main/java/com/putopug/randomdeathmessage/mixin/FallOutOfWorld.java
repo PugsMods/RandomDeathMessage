@@ -13,7 +13,7 @@ import java.util.Random;
 public class FallOutOfWorld {
 
     /**
-     * @author: PutoPug/PugzAreCute
+     * @author PutoPug/PugzAreCute
      */
     @Overwrite
     public ITextComponent getLocalizedDeathMessage(LivingEntity p_151519_1_) {

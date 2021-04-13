@@ -19,7 +19,7 @@ public class EntityDamageSrc {
         this.entity = entity;
     }
     /**
-     * @author: PutoPug/PugzAreCute
+     * @author PutoPug/PugzAreCute
      */
     @Overwrite
     public ITextComponent getLocalizedDeathMessage(LivingEntity p_151519_1_) {
