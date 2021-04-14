@@ -35,14 +35,14 @@
   "death.rdm.thanos_snap": "%1$s was Thanos snapped out of existence.",
   "death.rdm.soft": "%1$s was too soft for this world",
   "death.rdm.aim": "Ready. Aim at %1$s. FIRE",
-  "death.rdm.homework": "%1$s Didn't Do Its Minecraft Homework",
-  "death.rdm.jawdrop": "%1$s's Jaw Dropped Soo Much That It Was Shot Into Space",
-  "death.rdm.lag": "%1$s's PC Lagged Soo Much That It Faded Away From Existence",
-  "death.rdm.all_make_mistakes": "%1$s Died, But It's Ok, The Best If Us Fail Sometimes Too.",
-  "death.rdm.hmm": "Hmmmmmm. %1$s Failed",
-  "death.rdm.did_i_mention": "La La La Le La. Oh also did I mention %1$s died.",
-  "death.rdm.no_gravity": "Oh No! I Turned Off Gravity :(( %1$s Was Sucked Into The Sun",
-  "death.rdm.balloon": "%1$s Got Trapped In A Balloon And Fell Into A Hole",
+  "death.rdm.homework": "%1$s didn't do its Minecraft homework",
+  "death.rdm.jawdrop": "%1$s's jaw dropped soo much that it was shot into space",
+  "death.rdm.lag": "%1$s's PC lagged soo much that it faded away from existence",
+  "death.rdm.all_make_mistakes": "%1$s Died, but it's Ok, the best if us fail sometimes too!",
+  "death.rdm.hmm": "Hmmmmmm. %1$s failed",
+  "death.rdm.did_i_mention": "La La La Le La. Oh also did I mention %1$s died",
+  "death.rdm.no_gravity": "Oh No! I turned off gravity :((, %1$s was sucked into the sun",
+  "death.rdm.balloon": "%1$s got trapped in a balloon and fell into a hole",
   "death.rdm.error": "ERROR_%1$s_DIED",
-  "death.rdm.sigh": "Sigh. %1$s Failed The Game :(((("
+  "death.rdm.sigh": "Sigh. %1$s failed the game :(((("
 }
