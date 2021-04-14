@@ -1,28 +1,34 @@
 package com.putopug.randomdeathmessage.mixin;
 
-import com.google.gson.JsonObject;
+import com.google.common.collect.Lists;
+import net.minecraft.entity.Entity;
 import net.minecraft.entity.LivingEntity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.util.CombatEntry;
+import net.minecraft.util.CombatTracker;
 import net.minecraft.util.DamageSource;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.TranslationTextComponent;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Overwrite;
 
+import java.util.List;
 import java.util.Random;
 
-@Mixin(DamageSource.class)
-public class FallOutOfWorld {
-
+@Mixin(CombatTracker.class)
+public class CombatTrackMixin {
+    private final List<CombatEntry> entries = Lists.newArrayList();
     /**
-     * @author PutoPug/PugzAreCute
-     * @reason Randomize death messages
+     * @author PugzAreCute/PutoPug
      */
     @Overwrite
-    public ITextComponent getLocalizedDeathMessage(LivingEntity p_151519_1_) {
+    public ITextComponent getDeathMessage() {
         Random index = new Random();
         String[] arr = {"wasted","game_over","ditch","fail","stop_trying","oof","throw","eject","killed","gravity","huston","flight","cooked","stupid","med","404","high_sugar","f","kick","timeout","drill_forgot","no_breath","tp500","packet_fail","eol","tech","rmdir","taskkill","player_hate_world","terminator","lion","no_appointment","busted","thanos_snap","soft","aim"};
         String s = "death.rdm.";
         String s1 = s + arr[index.nextInt(arr.length)];
-        return new TranslationTextComponent(s1, p_151519_1_.getDisplayName());
+        CombatEntry combatentry1 = this.entries.get(this.entries.size() - 1);
+        Entity entity = combatentry1.getSource().getEntity();
+       return new TranslationTextComponent(s1,entity.getDisplayName());
     }
 }
