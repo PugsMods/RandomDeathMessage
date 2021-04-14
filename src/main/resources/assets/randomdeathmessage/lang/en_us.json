@@ -28,7 +28,7 @@
   "death.rdm.rmdir": "%1$s executed sudo rmdir %1$s",
   "death.rdm.taskkill": "taskkill /f /IM %1$s",
   "death.rdm.player_hate_world": "%1$s Hated This World.",
-  "death.rdm.terminator": "The Terminator Terminated %1$s",
+  "death.rdm.terminator": "The Terminator Has Terminated %1$s",
   "death.rdm.lion": "%1$s Interacted With a Lion. The Lion Did Not like it.",
   "death.rdm.no_appointment": "Sorry! %1$s Doesn't Have An Appointment To Live.",
   "death.rdm.busted": "%1$s was §cBUSTED",
