@@ -9,7 +9,7 @@
   "death.rdm.eject": "%1$s Was The Imposter",
   "death.rdm.killed": "%1$s Was Stabbed In The Eye By Red",
   "death.rdm.gravity": "I Turned up the gravity too high.%1$s was squished into a meatball",
-  "death.rdm.huston": "Huston, We Have A Problem",
+  "death.rdm.huston": "Huston, We Have A %1$s Problem",
   "death.rdm.flight": "%1$s Boarded The Wrong Flight. This One Goes To The Sun",
   "death.rdm.cooked": "%1$s is well done",
   "death.rdm.stupid": "%1$s Died Due To %1$s's Stupidity",
@@ -34,5 +34,15 @@
   "death.rdm.busted": "%1$s was §cBUSTED",
   "death.rdm.thanos_snap": "%1$s was Thanos snapped out of existence.",
   "death.rdm.soft": "%1$s was too soft for this world",
-  "death.rdm.aim": "Ready. Aim at %1$s. FIRE"
+  "death.rdm.aim": "Ready. Aim at %1$s. FIRE",
+  "death.rdm.homework": "%1$s Didn't Do Its Minecraft Homework",
+  "death.rdm.jawdrop": "%1$s's Jaw Dropped Soo Much That It Was Shot Into Space",
+  "death.rdm.lag": "%1$s's PC Lagged Soo Much That It Faded Away From Existence",
+  "death.rdm.all_make_mistakes": "%1$s Died, But It's Ok, The Best If Us Fail Sometimes Too.",
+  "death.rdm.hmm": "Hmmmmmm. %1$s Failed",
+  "death.rdm.did_i_mention": "La La La Le La. Oh also did I mention %1$s died.",
+  "death.rdm.no_gravity": "Oh No! I Turned Off Gravity :(( %1$s Was Sucked Into The Sun",
+  "death.rdm.balloon": "%1$s Got Trapped In A Balloon And Fell Into A Hole",
+  "death.rdm.error": "ERROR_%1$s_DIED",
+  "death.rdm.sigh": "Sigh. %1$s Failed The Game :(((("
 }
