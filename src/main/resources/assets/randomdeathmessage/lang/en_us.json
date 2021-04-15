@@ -44,5 +44,15 @@
   "death.rdm.no_gravity": "Oh No! I turned off gravity :((, %1$s was sucked into the sun",
   "death.rdm.balloon": "%1$s got trapped in a balloon and fell into a hole",
   "death.rdm.error": "ERROR_%1$s_DIED",
-  "death.rdm.sigh": "Sigh. %1$s failed the game :(((("
+  "death.rdm.sigh": "Sigh. %1$s failed the game :((((",
+  "death.rdm.stone": "%1$s dropped the Resurrection Stone.",
+  "death.rdm.princess": "%1$s was told not to go alone because it's dangerous outside. Poor Princess...",
+  "death.rdm.twice": "%1$s tried to stop its own death but died twice.",
+  "death.rdm.no_friends": "%1$s Had No Friends To Save them",
+  "death.rdm.clumsy": "%1$s is too clumsy.",
+  "death.rdm.god": "The minecraft gods wanted %1$s dead.",
+  "death.rdm.detonator": "%1$s got too tired and sat on the detonator.",
+  "death.rdm.destroyer3001": "%1$s forgot to disable the §cDESTROYER3001",
+  "death.rdm.dumme": "Uh oh. I Mistook %1$s for §6DUMM-E",
+  "death.rdm.sethealth": "%1$s.getAPI.setHealth(0)"
 }
