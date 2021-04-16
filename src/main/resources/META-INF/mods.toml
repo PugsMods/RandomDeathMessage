@@ -9,7 +9,7 @@ displayName="RandomDeathMessage"
 updateJSONURL="https://raw.githubusercontent.com/PugsMods/RandomDeathMessage/master/src/main/java/com/putopug/randomdeathmessage/update.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage"
 logoFile="RDM.png"
-credits="My Pc - Letting me Mod"
+credits="SuperRuper1209, for more details see https://github.com/PugsMods/RandomDeathMessage/CONTRIBUTORS.md"
 authors="PugzAreCure"
 description='''Random death messages!'''
 [[dependencies.randomdeathmessage]]
