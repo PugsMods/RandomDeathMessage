@@ -54,5 +54,15 @@
   "death.rdm.detonator": "%1$s got too tired and sat on the detonator.",
   "death.rdm.destroyer3001": "%1$s forgot to disable the §cDESTROYER3001",
   "death.rdm.dumme": "Uh oh. I Mistook %1$s for §6DUMM-E",
-  "death.rdm.sethealth": "%1$s.getAPI.setHealth(0)"
+  "death.rdm.sethealth": "%1$s.getAPI.setHealth(0)",
+  "death.rdm.rock": "%1$s listened to too much rock music on 101% volume.",
+  "death.rdm.shock": "%1$s didn't listen and touched the hot and neutral wires at the same time.",
+  "death.rdm.river_end": "%1$s forgot that the river of success ends with a waterfall into the river of failure.",
+  "death.rdm.wha": "Wha wha wha wha wha how how how did %1$s die?",
+  "death.rdm.gladiator": "%1$s stepped into the gladiator arena without armor.",
+  "death.rdm.uranium": "%1$s handled uranium with its bare hands for too long",
+  "death.rdm.lost_win_chance": "%1$s lost the chance to win.",
+  "death.rdm.too_hard": "Living was too hard for %1$s",
+  "death.rdm.laugh_2_hard": "%1$s laughed soo hard that it died",
+  "death.rdm.noob": "%1$s is a noob."
 }
