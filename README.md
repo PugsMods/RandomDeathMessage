@@ -1,7 +1,15 @@
+
 # RandomDeathMessage
 Random death messages in minecraft!
 
+# Contributors!
+Please see [this page](https://github.com/PugsMods/RandomDeathMessage/blob/1.16.X/CONTRIBUTORS.md)
+
+And Finally, a big thanks to all the contributors from me, without you this mods would not have been possible!
+
 # Code for old versions!
+
+[1.0.5-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/a95fb7e4a88f25ad26bace94e7998bbecbd53793)
 
 [1.0.4-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/566c51de5789f4f405c0d9710e1cc58db5005621)
 

@@ -4,12 +4,12 @@ license="GNU General Public License V3"
 issueTrackerURL="https://github.com/PugsMods/RandomDeathMessage/issues"
 [[mods]]
 modId="randomdeathmessage"
-version="1.0.5"
+version="1.0.6"
 displayName="RandomDeathMessage"
 updateJSONURL="https://raw.githubusercontent.com/PugsMods/RandomDeathMessage/master/src/main/java/com/putopug/randomdeathmessage/update.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage"
 logoFile="RDM.png"
-credits="SuperRuper1209, for more details see https://github.com/PugsMods/RandomDeathMessage/CONTRIBUTORS.md"
+credits="SuperRuper1209, for more details see https://github.com/PugsMods/RandomDeathMessage/blob/1.16.X/CONTRIBUTORS.md"
 authors="PugzAreCure"
 description='''Random death messages!'''
 [[dependencies.randomdeathmessage]]
