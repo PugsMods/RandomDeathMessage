@@ -64,5 +64,15 @@
   "death.rdm.lost_win_chance": "%1$s lost the chance to win.",
   "death.rdm.too_hard": "Living was too hard for %1$s",
   "death.rdm.laugh_2_hard": "%1$s laughed soo hard that it died",
-  "death.rdm.noob": "%1$s is a noob."
+  "death.rdm.noob": "%1$s is a noob.",
+  "death.rdm.sus": "%1$s was too sus for this world",
+  "death.rdm.reset": "%1$s Pressed the reset life button.",
+  "death.rdm.music": "The music overwhelmed %1$s",
+  "death.rdm.refuel": "%1$s forgot to refuel its battery.",
+  "death.rdm.fragment": "%1$s got fragmented into a billion pieces",
+  "death.rdm.function": "%1$s failed to function properly.",
+  "death.rdm.mutate": "%1$s mutated into air.",
+  "death.rdm.forge": "%1$s forged itself into air",
+  "death.rdm.achieve_death": "%1$s achieved death.",
+  "death.rdm.claim": "%1$s claimed its free token to death!"
 }

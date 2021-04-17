@@ -64,5 +64,15 @@
   "death.rdm.lost_win_chance": "%1$s потерял шанс на победу.",
   "death.rdm.too_hard": "Жизнь была слишком сложна для %1$s.",
   "death.rdm.laugh_2_hard": "%1$s так много смеялся что умер.",
-  "death.rdm.noob": "%1$s - нуб."
+  "death.rdm.noob": "%1$s - нуб.",
+  "death.rdm.sus": "%1$s был слишком подозрительным",
+  "death.rdm.reset": "%1$s нажал на кнопку сброса жизни.",
+  "death.rdm.music": "Музыка перегрузила игрока %1$s",
+  "death.rdm.refuel": "%1$s забыл себя зарядить.",
+  "death.rdm.fragment": "%1$s превратился в миллиард кусочков.",
+  "death.rdm.function": "%1$s перестал работать исправно.",
+  "death.rdm.mutate": "%1$s мутировал и стал воздухом.",
+  "death.rdm.forge": "%1$s превратил себя в воздух.",
+  "death.rdm.achieve_death": "%1$s достиг смерти.",
+  "death.rdm.claim": "%1$s забрал бесплатный билет на смерть!"
 }
