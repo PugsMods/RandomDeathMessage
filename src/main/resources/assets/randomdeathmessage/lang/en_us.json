@@ -74,5 +74,15 @@
   "death.rdm.mutate": "%1$s mutated into air.",
   "death.rdm.forge": "%1$s forged itself into air",
   "death.rdm.achieve_death": "%1$s achieved death.",
-  "death.rdm.claim": "%1$s claimed its free token to death!"
+  "death.rdm.claim": "%1$s claimed its free token to death!",
+  "death.rdm.sold_brain": "%1$s sold its brain to buy a new one but it forgot about the global brain shortage!",
+  "death.rdm.vrm_cooling": "%1$s's VRMS Died because it did not get enough cooling",
+  "death.rdm.cpu_amongus": "%1$s's CPU is currently playing AmongUS. Please Wait.",
+  "death.rdm.no_mobo_compat": "%1$s's Motherboard didnt support the %1$s99008 CPU",
+  "death.rdm.corrupt_bios": "%1$s turned off its pc while flashing its BIOS.",
+  "death.rdm.odd_one_out": "%1$s was the Odd One Out.",
+  "death.rdm.fnaf5": "%1$s Played too much FNAF5 and passed out.",
+  "death.rdm.lightning_can_strike_2": "Note to %1$s and anyone else, Lightning can strike the same place a second time.",
+  "death.rdm.scp-498": "%1$s forgot to snooze SCP-498",
+  "death.rdm.carve": "%1$s Carved itself soo much that it converted 100% of its matter into O2(Oxygen)."
 }
