@@ -84,5 +84,15 @@
   "death.rdm.fnaf5": "%1$s играл слишком много в FNAF5 и отключился.",
   "death.rdm.lightning_can_strike_2": "Запись для %1$s и для других, молния может попасть в тоже место дважды.",
   "death.rdm.scp-498": "%1$s забыл сбросить SCP-498",
-  "death.rdm.carve": "%1$s резал себя так много что превратился в O2(Кислород)."
+  "death.rdm.carve": "%1$s резал себя так много что превратился в O2(Кислород).",
+  "death.rdm.tpltb": "%1$s был атакован Супер Точной Турелью, которую несёт курица.",
+  "death.rdm.draw_hearts": "%1$s думал что может рисовать сердца. Он может только их стирать.",
+  "death.rdm.space_forgot_suit": "%1$s забыл одеть скафандр в космосе.",
+  "death.rdm.tos": "%1$s  забыл прочитать условия использования GoztBuzter2983. Теперь его душа моя.",
+  "death.rdm.logger": "[99 Apr 2097 99:88:77.654] [main/FATAL] [net.mojang.minecraft.player.%1$sEntity/LifeCycle]: FATAL: %1$s Registry Entry Missing. Setting Health to 0.",
+  "death.rdm.goztbuzter": "%1$s забыл что он призрак. Пылесос охотника за призраками всосал %1$s",
+  "death.rdm.lifecycle_crash": "Жизненный цикл игрока %1$s прервался .",
+  "death.rdm.spell_of_life_forgot": "Сколько раз мне говорить игроку %1$s, не забывать как читается слово жизнь .",
+  "death.rdm.moontos_and_kola_fizzy": "%1$s съел ментос и запил кока-колой.",
+  "death.rdm.forgot_smalltext": "%1$s забыл прочитать маленький текст на упаковке. Там было написанно : \"Внимание: Побочные эффекты могут включать моментальную смерть.\""
 }

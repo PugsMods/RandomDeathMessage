@@ -84,5 +84,15 @@
   "death.rdm.fnaf5": "%1$s Played too much FNAF5 and passed out.",
   "death.rdm.lightning_can_strike_2": "Note to %1$s and anyone else, Lightning can strike the same place a second time.",
   "death.rdm.scp-498": "%1$s forgot to snooze SCP-498",
-  "death.rdm.carve": "%1$s Carved itself soo much that it converted 100% of its matter into O2(Oxygen)."
+  "death.rdm.carve": "%1$s Carved itself soo much that it converted 100% of its matter into O2(Oxygen).",
+  "death.rdm.tpltb": "%1$s got attacked by a Totaly Precise Laser Turret Bearing chicken.",
+  "death.rdm.draw_hearts": "%1$s thought it could draw hearts. It Only erased them.",
+  "death.rdm.space_forgot_suit": "%1$s Forgot to wear its space suit while in space.",
+  "death.rdm.tos": "%1$s forgot to read the TOS of the GoztBuzter2983. I own its soul now.",
+  "death.rdm.logger": "[99 Apr 2097 99:88:77.654] [main/FATAL] [net.mojang.minecraft.player.%1$sEntity/LifeCycle]: FATAL: %1$s Registry Entry Missing. Setting Health to 0.",
+  "death.rdm.goztbuzter": "%1$s Forgot it was a ghost. It Ran the GoztBuzter2983. The GoztBuzter2983 sucked in %1$s",
+  "death.rdm.lifecycle_crash": "%1$s's LifeCycle Crashed.",
+  "death.rdm.spell_of_life_forgot": "Sit Lifemius Qadum Zhrs. How many times do I have to tell you, %1$s to NOT forget the spell of life.",
+  "death.rdm.moontos_and_kola_fizzy": "%1$s Mixed Moontos And Kola!-Ultra Fizzy Edition in its stomach. It Exploded",
+  "death.rdm.forgot_smalltext": "%1$s Forgot to read the small text of the ULTRAAMP888. It read : \"Warning: Side Affects MAY include instant death.\""
 }
