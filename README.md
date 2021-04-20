@@ -9,6 +9,8 @@ And Finally, a big thanks to all the contributors from me, without you this mods
 
 # Code for old versions!
 
+[1.0.8-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/8594edda8a481025df65ea3161287914e8e072b0)
+
 [1.0.7-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/2e2c8451a08287cde4e2cd9996ceef690e516f3c)
 
 [1.0.6-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/db9a2d5ac7e00092e80d948c6d6c73f0af836de2)
