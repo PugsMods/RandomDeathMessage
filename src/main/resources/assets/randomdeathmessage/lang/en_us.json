@@ -94,5 +94,15 @@
   "death.rdm.lifecycle_crash": "%1$s's LifeCycle Crashed.",
   "death.rdm.spell_of_life_forgot": "Sit Lifemius Qadum Zhrs. How many times do I have to tell you, %1$s to NOT forget the spell of life.",
   "death.rdm.moontos_and_kola_fizzy": "%1$s Mixed Moontos And Kola!-Ultra Fizzy Edition in its stomach. It Exploded",
-  "death.rdm.forgot_smalltext": "%1$s Forgot to read the small text of the ULTRAAMP888. It read : \"Warning: Side Affects MAY include instant death.\""
+  "death.rdm.forgot_smalltext": "%1$s Forgot to read the small text of the ULTRAAMP888. It read : \"Warning: Side Affects MAY include instant death.\"",
+  "death.rdm.BEANS": "%1$s ate too many BEANS",
+  "death.rdm.respect_beans": "%1$s didnt respect their BEANS",
+  "death.rdm.user-user": "%1$s = %1$s - %1$s * 0",
+  "death.rdm.flex": "%1$s.getAPI.setFlexibility(100); *%1$s Bends 180 Degrees* %1$s.getAPI.setFlexibility(0); *%1$s Cracks*",
+  "death.rdm.mayday": "Pan - Pan: %1$s is low on health. I repeat: Pan - Pan: %1$s is low on health. OH WAIT WERE OUT WHY DIDNT %1$s CALL A MAYDAY",
+  "death.rdm.d_death": "%1$s forgot that it bound the \"Life\" key to \"Death\"",
+  "death.rdm.gigaBLAST": "%1$s forgot that the GIGABLAST77777 Blasts the user NOT the victim.",
+  "death.rdm.snippety_snip": "Yay I finaly got the SNIPITYSNIP64402. OH WAIT DID I JUST MAKE A HOLE IN %1$s's LIFE RESERVOIR",
+  "death.rdm.future": "For a brief second %1$s saw the future before collapsing into air.",
+  "death.rdm.sharpness1000000": "%1$s Forgot their knife was enchanted with sharpness 1000000. They Sliced themself"
 }
