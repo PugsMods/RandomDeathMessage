@@ -104,5 +104,15 @@
   "death.rdm.gigaBLAST": "%1$s forgot that the GIGABLAST77777 Blasts the user NOT the victim.",
   "death.rdm.snippety_snip": "Yay I finaly got the SNIPITYSNIP64402. OH WAIT DID I JUST MAKE A HOLE IN %1$s's LIFE RESERVOIR",
   "death.rdm.future": "For a brief second %1$s saw the future before collapsing into air.",
-  "death.rdm.sharpness1000000": "%1$s Forgot their knife was enchanted with sharpness 1000000. They Sliced themself"
+  "death.rdm.sharpness1000000": "%1$s Forgot their knife was enchanted with sharpness 1000000. They Sliced themself",
+  "death.rdm.popped_totem": "%1$s Popped  their totem of life.",
+  "death.rdm.no-more_now-amoogus": "%1$s Didnt want to live in this world. So %1$s Moved to Amoogus. Bye.",
+  "death.rdm.tick_tock": "Tick tock tick to . Did you hear that? %1$s Forgot to rewind its life clock.",
+  "death.rdm.calc_trajectory_fail": "%1$s forgot how to do maths. It calculated the wrong trajectory. The right one was supposed to reach that tree over there but this one reaches strait into %1$s's face.",
+  "death.rdm.code_loop": "OHNO! My code that removes 0.0000001 Hearts bugged and looped forever. Sorry %1$s",
+  "death.rdm.hot": "%1$s heated up soo much that it vanished into THICK air",
+  "death.rdm.err_playerdisk": "ERROR: PlayerDisk %1$s Could Not Be Read. Please Reset PlayerDisk %1$s *WARNING: Resetting will Set save health to 0*",
+  "death.rdm.freezedry": "%1$s got freeze-dried and then got powdered by an anvil.",
+  "death.rdm.fragile": "%1$s was too fragile for this world.",
+  "death.rdm.no_life_of_own": "%1$s didnt have a life of its own :(."
 }
