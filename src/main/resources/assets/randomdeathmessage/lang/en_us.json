@@ -114,5 +114,15 @@
   "death.rdm.err_playerdisk": "ERROR: PlayerDisk %1$s Could Not Be Read. Please Reset PlayerDisk %1$s *WARNING: Resetting will Set save health to 0*",
   "death.rdm.freezedry": "%1$s got freeze-dried and then got powdered by an anvil.",
   "death.rdm.fragile": "%1$s was too fragile for this world.",
-  "death.rdm.no_life_of_own": "%1$s didnt have a life of its own :(."
+  "death.rdm.no_life_of_own": "%1$s didnt have a life of its own :(.",
+  "death.rdm.achievement": "%1$s Unlocked Achievement: HEALTH = 0",
+  "death.rdm.monke": "OGGGA BOOGA OLALA %1$s Is Dead. (Yes, this is my best imitation of a monkey)",
+  "death.rdm.basics_of_life": "%1$s Forgot the basics of life : LIVE",
+  "death.rdm.breakfast": "I had wonderful breakfast today, %1$s and eggs.",
+  "death.rdm.no_money_for_life": "%1$s was too cheap for this world. It Bought Life Tier 192 (You dont get to live in that tier)",
+  "death.rdm.anthony": "ANTHONY, I SAID YOU NOT TO SET %1$s's HEALTH TO 0, YOU ARE FIRED.",
+  "death.rdm.paste": "%1$s was turned into %1$s paste.",
+  "death.rdm.slide_to_hell": "%1$s slid to hell.",
+  "death.rdm.piranha_plant": "%1$s got eaten by a piranha plant.",
+  "death.rdm.not_like_living_too_much": "Its fine, %1$s didnt like living too much."
 }
