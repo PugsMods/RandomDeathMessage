@@ -124,5 +124,15 @@
   "death.rdm.paste": "%1$s was turned into %1$s paste.",
   "death.rdm.slide_to_hell": "%1$s slid to hell.",
   "death.rdm.piranha_plant": "%1$s got eaten by a piranha plant.",
-  "death.rdm.not_like_living_too_much": "Its fine, %1$s didnt like living too much."
+  "death.rdm.not_like_living_too_much": "Its fine, %1$s didnt like living too much.",
+  "death.rdm.driver": "ERROR: FAILED TO LOAD DRIVER FOR %1$s",
+  "death.rdm.ingest_plutonium":"%1$s ingested Plutonium-239",
+  "death.rdm.reddit": "%1$s spent too much time looking at r/CursedMinecraft",
+  "death.rdm.mask": "%1$s forgot to wear a mask.",
+  "death.rdm.too_cool": "%1$s was too cool for this world",
+  "death.rdm.too_cursed": "%1$s was too cursed for this world",
+  "death.rdm.why": "Why am I doing this anymore? Anyways, %1$s is really bad at this game.",
+  "death.rdm.knife": "OHNO! I just dropped my knife on %1$s",
+  "death.rdm.ants": "%1$s got destroyed by a million ants",
+  "death.rdm.scared": "%1$s was so scared that it phased out of existence"
 }

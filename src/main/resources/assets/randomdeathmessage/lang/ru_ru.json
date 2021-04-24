@@ -124,5 +124,15 @@
   "death.rdm.paste": "%1$s был превращён в макаронны(пасту).",
   "death.rdm.slide_to_hell": "%1$s проехался по горке в ад.",
   "death.rdm.piranha_plant": "%1$s был съеден растением-пираньей.",
-  "death.rdm.not_like_living_too_much": "Всё окей, %1$s не особо любил жить."
+  "death.rdm.not_like_living_too_much": "Всё окей, %1$s не особо любил жить.",
+  "death.rdm.driver": "ОШИБКА: НЕ УДАЛОСЬ ЗАГРУЗИТЬ ДРАЙВЕР \"%1$s\"",
+  "death.rdm.ingest_plutonium":"%1$s проглотил Plutonium-239",
+  "death.rdm.reddit": "%1$s потратил слишком много временни в реддите r/CursedMinecraft",
+  "death.rdm.mask": "%1$s забыл надеть маску.",
+  "death.rdm.too_cool": "%1$s был слишком крут для этого жалкого мира",
+  "death.rdm.too_cursed": "%1$s был слишком странным для этого мира",
+  "death.rdm.why": "Почему я это делаю до сих пор? В любом случае, %1$s очень плох в этой игре.",
+  "death.rdm.knife": "О нет! Я \"случайно\" уронил нож на %1$s",
+  "death.rdm.ants": "%1$s был съеден миллионом муравьёв",
+  "death.rdm.scared": "%1$s был так потрясён что исчез из сущевствования"
 }
