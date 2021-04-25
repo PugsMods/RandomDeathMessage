@@ -1,6 +1,5 @@
 package com.putopug.randomdeathmessage.mixin;
 
-import com.google.gson.JsonObject;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.util.DamageSource;
 import net.minecraft.util.text.ITextComponent;

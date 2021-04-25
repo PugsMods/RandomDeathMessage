@@ -134,5 +134,15 @@
   "death.rdm.why": "Why am I doing this anymore? Anyways, %1$s is really bad at this game.",
   "death.rdm.knife": "OHNO! I just dropped my knife on %1$s",
   "death.rdm.ants": "%1$s got destroyed by a million ants",
-  "death.rdm.scared": "%1$s was so scared that it phased out of existence"
+  "death.rdm.scared": "%1$s was so scared that it phased out of existence",
+  "death.rdm.sketchy": "%1$s was too sketchy for this world",
+  "death.rdm.split": "%1$s was split in half by the Caves & Cliffs Update",
+  "death.rdm.acid": "%1$s ingested acid.",
+  "death.rdm.impossibe4player": "Minecraft was too impossible for %1$s",
+  "death.rdm.forgot_water": "%1$s forgot to drink water",
+  "death.rdm.THICC": "%1$s was too T H I C C for this world",
+  "death.rdm.air": "%1$s forgot to breathe",
+  "death.rdm.ate_cloud": "%1$s ate a cloud and floated away",
+  "death.rdm.worldhate": "The world hated %1$s",
+  "death.rdm.glitch": "%1$s glitched out of existence"
 }
