@@ -15,7 +15,6 @@ import org.apache.logging.log4j.Logger;
 @Mod("randomdeathmessage")
 public class RngDeathMsg
 {
-    // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
 
     public RngDeathMsg() {
@@ -27,6 +26,7 @@ public class RngDeathMsg
     }
     private void setup(final FMLCommonSetupEvent event)
     {
+        LOGGER.warn("RandomDeathMessage - Copyright PutoPug/PugzAreCute 2021");
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {
