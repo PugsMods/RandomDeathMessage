@@ -144,5 +144,15 @@
   "death.rdm.air": "%1$s forgot to breathe",
   "death.rdm.ate_cloud": "%1$s ate a cloud and floated away",
   "death.rdm.worldhate": "The world hated %1$s",
-  "death.rdm.glitch": "%1$s glitched out of existence"
+  "death.rdm.glitch": "%1$s glitched out of existence",
+  "death.rdm.dirty": "%1$s was too dirty for this world",
+  "death.rdm.ouch": "%1$s died. OUCH! That must've hurt",
+  "death.rdm.neg_lq": ">lqrate %1$s -all. ERROR: LQRATE CANNOT PARSE LIFEQUALITY -1619443357 FOR ENTITY %1$s",
+  "death.rdm_too_big_dream": "%1$s dreamt too big",
+  "death.rdm.boil": "%1$s boiled away in -12213 C Weather",
+  "death.rdm.bug": "%1$s was too buggy for this world",
+  "death.rdm.burp": "%1$s burped too loud. LoL",
+  "death.rdm.learn2die": "%1$s learnt how to die",
+  "death.rdm.headache": "%1$s died due to a severe headache from staring at its monitor too long",
+  "death.rdm.2happy": "%1$s was too happy for this world"
 }
