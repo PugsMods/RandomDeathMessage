@@ -154,5 +154,16 @@
   "death.rdm.burp": "%1$s burped too loud. LoL",
   "death.rdm.learn2die": "%1$s learnt how to die",
   "death.rdm.headache": "%1$s died due to a severe headache from staring at its monitor too long",
-  "death.rdm.2happy": "%1$s was too happy for this world"
+  "death.rdm.2happy": "%1$s was too happy for this world",
+  "death.rdm.doge": "%1$s sold itself for 1 DOGE",
+  "death.rdm.soa_impossible": "%1$s, HOW MANY TIMES DO I HAVE TO SAY YOU YOU CANT SURVIVE OFF AIR",
+  "death.rdm.life_license_expired": "%1$s License to live expired.",
+  "death.rdm.itch": "%1$s itched itself out of existence",
+  "death.rdm.2stressed": "%1$s was to stressed for this world",
+  "death.rdm.shock_world": "%1$s was so shocked that it failed to live",
+  "death.rdm.heart": "%1$s pulled out its heart.",
+  "death.rdm.x": "%1$s forgot. X = Death",
+  "death.rdm.why_giveup": "%1$s, WHY, WHY did you give up on us?",
+  "death.rdm.hungry": "%1$s was so hungry it failed to exist",
+  "death.rdm.dance": "%1$s danced out of this world"
 }
