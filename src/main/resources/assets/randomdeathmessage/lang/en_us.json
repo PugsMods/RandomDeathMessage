@@ -148,7 +148,7 @@
   "death.rdm.dirty": "%1$s was too dirty for this world",
   "death.rdm.ouch": "%1$s died. OUCH! That must've hurt",
   "death.rdm.neg_lq": ">lqrate %1$s -all. ERROR: LQRATE CANNOT PARSE LIFEQUALITY -1619443357 FOR ENTITY %1$s",
-  "death.rdm_too_big_dream": "%1$s dreamt too big",
+  "death.rdm.too_big_dream": "%1$s dreamt too big",
   "death.rdm.boil": "%1$s boiled away in -12213 C Weather",
   "death.rdm.bug": "%1$s was too buggy for this world",
   "death.rdm.burp": "%1$s burped too loud. LoL",

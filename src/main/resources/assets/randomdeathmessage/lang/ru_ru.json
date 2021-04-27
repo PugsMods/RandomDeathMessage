@@ -148,7 +148,7 @@
   "death.rdm.dirty": "%1$s слишком сильно нагрешил.",
   "death.rdm.ouch": "%1$s умер. АУЧ! Наверное это было больно.",
   "death.rdm.neg_lq": ">lqrate %1$s -all. ERROR: LQRATE CANNOT PARSE LIFEQUALITY -1619443357 FOR ENTITY %1$s",
-  "death.rdm_too_big_dream": "%1$s слишком много чего ожидал.",
+  "death.rdm.too_big_dream": "%1$s слишком много чего ожидал.",
   "death.rdm.boil": "%1$s зажарился при температуре -12213 по цельсию.",
   "death.rdm.bug": "%1$s был слишком глючным.",
   "death.rdm.burp": "%1$s слишком громко сделал отрыжку в голосовом канале. ЛОЛ.",
