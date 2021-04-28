@@ -1,20 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage",
   "promos": {
-    "1.16.5-latest": "1.1.5",
-    "1.16.5-recommended": "1.1.5",
-    "1.16.4-latest": "1.1.5",
-    "1.16.4-recommended": "1.1.5",
-    "1.16.3-latest": "1.1.5",
-    "1.16.3-recommended": "1.1.5",
-    "1.16.2-latest": "1.1.5",
-    "1.16.2-recommended": "1.1.5",
-    "1.16.1-latest": "1.1.5",
-    "1.16.1-recommended": "1.1.5",
-    "1.16-latest": "1.1.5",
-    "1.16-recommended": "1.1.5"
+    "1.16.5-latest": "1.1.6",
+    "1.16.5-recommended": "1.1.6",
+    "1.16.4-latest": "1.1.6",
+    "1.16.4-recommended": "1.1.6",
+    "1.16.3-latest": "1.1.6",
+    "1.16.3-recommended": "1.1.6",
+    "1.16.2-latest": "1.1.6",
+    "1.16.2-recommended": "1.1.6",
+    "1.16.1-latest": "1.1.6",
+    "1.16.1-recommended": "1.1.6"
   },
   "1.16.5": {
+    "1.1.6": "11 More Messages :eyes:",
     "1.1.5": "More messages as usual",
     "1.1.4": "More Messages and lots of changed files",
     "1.1.3": "More Messages",
@@ -33,6 +32,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.4": {
+    "1.1.6": "11 More Messages :eyes:",
     "1.1.5": "More messages as usual",
     "1.1.4": "More Messages and lots of changed files",
     "1.1.3": "More Messages",
@@ -51,6 +51,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.3": {
+    "1.1.6": "11 More Messages :eyes:",
     "1.1.5": "More messages as usual",
     "1.1.4": "More Messages and lots of changed files",
     "1.1.3": "More Messages",
@@ -69,6 +70,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.2": {
+    "1.1.6": "11 More Messages :eyes:",
     "1.1.5": "More messages as usual",
     "1.1.4": "More Messages and lots of changed files",
     "1.1.3": "More Messages",
@@ -87,6 +89,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.1": {
+    "1.1.6": "11 More Messages :eyes:",
     "1.1.5": "More messages as usual",
     "1.1.4": "More Messages and lots of changed files",
     "1.1.3": "More Messages",
@@ -103,23 +106,5 @@
     "1.0.2": "More Messages!",
     "1.0.1": "Fixed an issue with messages",
     "1.0.0": "New Day, New Mod"
-  },
-  "1.16": {
-    "1.1.5": "More messages as usual",
-  "1.1.4": "More Messages and lots of changed files",
-  "1.1.3": "More Messages",
-  "1.1.2": "More Messages, Hopefully fix a compiler warning",
-  "1.1.1": "More messages",
-  "1.1.0": "More Messages and a new logo!",
-  "1.0.9": "Fix ForgeGradle Bug And 10 More Messages!",
-  "1.0.8": "More Messages!",
-  "1.0.7": "More messages as usual",
-  "1.0.6": "Russian translations and more messages!",
-  "1.0.5": "More Messages and internal optimizations",
-  "1.0.4": "More messages, Added a CombatTracker Mixin",
-  "1.0.3": "More Messages and some internal tweaks",
-  "1.0.2": "More Messages!",
-  "1.0.1": "Fixed an issue with messages",
-  "1.0.0": "New Day, New Mod"
-}
+  }
 }
