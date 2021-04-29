@@ -165,5 +165,15 @@
   "death.rdm.x": "%1$s forgot. X = Death",
   "death.rdm.why_giveup": "%1$s, WHY, WHY did you give up on us?",
   "death.rdm.hungry": "%1$s was so hungry it failed to exist",
-  "death.rdm.dance": "%1$s danced out of this world"
+  "death.rdm.dance": "%1$s danced out of this world",
+  "death.rdm.bats": "%1$s got escorted to hell by bats",
+  "death.rdm.doge2": "%1$s sold its minecraft account for 0.69 Doge",
+  "death.rdm.qanb": "%1$s got destroyed by a Quantum accelerated nano-bat (Yes, this name is made up)",
+  "death.rdm.die_o_rite": "%1$s ate too much diorite, as the name suggests, it died.",
+  "death.rdm.compress": "%1$s compressed itself into a black hole",
+  "death.rdm.bingewatch": "%1$s binge watched too much Death 44. It died.",
+  "death.rdm.punch": "%1$s punched itself into oblivion",
+  "death.rdm.nails": "%1$s bit its nails soo much that it ate its heard. RIP",
+  "death.rdm.heater": "%1$s turned on the heater at 99C. It melted",
+  "death.rdm.broke": "%1$s broke 100% of its life. This is why you dont use glitches"
 }
