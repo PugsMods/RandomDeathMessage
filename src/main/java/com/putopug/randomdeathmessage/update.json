@@ -1,19 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage",
   "promos": {
-    "1.16.5-latest": "1.1.9",
-    "1.16.5-recommended": "1.1.9",
-    "1.16.4-latest": "1.1.9",
-    "1.16.4-recommended": "1.1.9",
-    "1.16.3-latest": "1.1.9",
-    "1.16.3-recommended": "1.1.9",
-    "1.16.2-latest": "1.1.9",
-    "1.16.2-recommended": "1.1.9",
-    "1.16.1-latest": "1.1.9",
-    "1.16.1-recommended": "1.1.9"
+    "1.16.5-latest": "1.1.9RUSSIANFIX",
+    "1.16.5-recommended": "1.1.9RUSSIANFIX",
+    "1.16.4-latest": "1.1.9RUSSIANFIX",
+    "1.16.4-recommended": "1.1.9RUSSIANFIX",
+    "1.16.3-latest": "1.1.9RUSSIANFIX",
+    "1.16.3-recommended": "1.1.9RUSSIANFIX",
+    "1.16.2-latest": "1.1.9RUSSIANFIX",
+    "1.16.2-recommended": "1.1.9RUSSIANFIX",
+    "1.16.1-latest": "1.1.9RUSSIANFIX",
+    "1.16.1-recommended": "1.1.9RUSSIANFIX"
   },
   "1.16.5": {
-    "1.1.9": "20 More messages, Translator was away(Sorry!)",
+    "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
     "1.1.8": "20 More messages",
     "1.1.7": "More messages",
     "1.1.6": "11 More Messages :eyes:",
@@ -35,7 +35,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.4": {
-    "1.1.9": "20 More messages, Translator was away(Sorry!)",
+    "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
     "1.1.8": "20 More messages",
     "1.1.7": "More messages",
     "1.1.6": "11 More Messages :eyes:",
@@ -57,7 +57,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.3": {
-    "1.1.9": "20 More messages, Translator was away(Sorry!)",
+    "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
     "1.1.8": "20 More messages",
     "1.1.7": "More messages",
     "1.1.6": "11 More Messages :eyes:",
@@ -79,7 +79,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.2": {
-    "1.1.9": "20 More messages, Translator was away(Sorry!)",
+    "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
     "1.1.8": "20 More messages",
     "1.1.7": "More messages",
     "1.1.6": "11 More Messages :eyes:",
@@ -101,7 +101,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.1": {
-    "1.1.9": "20 More messages, Translator was away(Sorry!)",
+    "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
     "1.1.8": "20 More messages",
     "1.1.7": "More messages",
     "1.1.6": "11 More Messages :eyes:",
