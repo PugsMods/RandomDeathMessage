@@ -225,5 +225,15 @@
   "death.rdm.rick_roll": "%1$s got rick-rolled out of this world",
   "death.rdm.hell": "ATTENTION: %1$s decided to join its friends over at Hell",
   "death.rdm.captcha": "%1$s failed the life captcha (If you fail this your life ends)",
-  "death.rdm.morph": "%1$s unlocked power : MORPH, Lets see what %1$s morphs into. AAND THE RESULts ARE IN: %1$s Morphed into Air? What? How? Illegal"
+  "death.rdm.morph": "%1$s unlocked power : MORPH, Lets see what %1$s morphs into. AAND THE RESULts ARE IN: %1$s Morphed into Air? What? How? Illegal",
+  "death.rdm.eyedee": "%1$s forgot its own identity",
+  "death.rdm.scifi": "%1$s watched too much Sci-Fi",
+  "death.rdm.int": "%1$s created an intelligent species, pew pew, species kill %1$s",
+  "death.rdm.ineff": "%1$s reached peak(maybe) efficiency. It reached -2103210931029390210498342750235823% efficiency",
+  "death.rdm.imrunningout": "Dang, Im running out of messages, anyways, %1$s has failed",
+  "death.rdm.run": "%1$s ran out of lifejuice",
+  "death.rdm.unlife": "life -setlife -usr: %1$s -213.01",
+  "death.rdm.sleep2": "%1$s didnt sleep for 592 days, it died",
+  "death.rdm.mic": "%1$s used its mic at 2423% volume, it was banished",
+  "death.rdm.punchscreen": "%1$s punched its screen, got cut by the glass shards, died due to severe blood loss"
 }
