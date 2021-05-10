@@ -1,18 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage",
   "promos": {
-    "1.16.5-latest": "1.2.1",
-    "1.16.5-recommended": "1.2.1",
-    "1.16.4-latest": "1.2.1",
-    "1.16.4-recommended": "1.2.1",
-    "1.16.3-latest": "1.2.1",
-    "1.16.3-recommended": "1.2.1",
-    "1.16.2-latest": "1.2.1",
-    "1.16.2-recommended": "1.2.1",
-    "1.16.1-latest": "1.2.1",
-    "1.16.1-recommended": "1.2.1"
+    "1.16.5-latest": "1.2.2",
+    "1.16.5-recommended": "1.2.2",
+    "1.16.4-latest": "1.2.2",
+    "1.16.4-recommended": "1.2.2",
+    "1.16.3-latest": "1.2.2",
+    "1.16.3-recommended": "1.2.2",
+    "1.16.2-latest": "1.2.2",
+    "1.16.2-recommended": "1.2.2",
+    "1.16.1-latest": "1.2.2",
+    "1.16.1-recommended": "1.2.2"
   },
   "1.16.5": {
+    "1.2.2": "Yeah, i took a break for the weekend, im back now :)",
     "1.2.1": "usual stuff, more messages",
     "1.2.0": "More messages and one more translation",
     "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
@@ -37,6 +38,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.4": {
+    "1.2.2": "Yeah, i took a break for the weekend, im back now :)",
     "1.2.1": "usual stuff, more messages",
     "1.2.0": "More messages and one more translation",
     "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
@@ -61,6 +63,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.3": {
+    "1.2.2": "Yeah, i took a break for the weekend, im back now :)",
     "1.2.1": "usual stuff, more messages",
     "1.2.0": "More messages and one more translation",
     "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
@@ -85,6 +88,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.2": {
+    "1.2.2": "Yeah, i took a break for the weekend, im back now :)",
     "1.2.1": "usual stuff, more messages",
     "1.2.0": "More messages and one more translation",
     "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
@@ -109,6 +113,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.1": {
+    "1.2.2": "Yeah, i took a break for the weekend, im back now :)",
     "1.2.1": "usual stuff, more messages",
     "1.2.0": "More messages and one more translation",
     "1.1.9RUSSIANFIX": "20 More messages, REMOVE ALL RUSSIAN TRANSLATIONS CAUSE MY TRANSLATOR INSERTED SOME INAPPROPRIATE ONES",
