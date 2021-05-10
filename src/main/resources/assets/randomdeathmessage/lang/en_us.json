@@ -235,5 +235,15 @@
   "death.rdm.unlife": "life -setlife -usr: %1$s -213.01",
   "death.rdm.sleep2": "%1$s didnt sleep for 592 days, it died",
   "death.rdm.mic": "%1$s used its mic at 2423% volume, it was banished",
-  "death.rdm.punchscreen": "%1$s punched its screen, got cut by the glass shards, died due to severe blood loss"
+  "death.rdm.punchscreen": "%1$s punched its screen, got cut by the glass shards, died due to severe blood loss",
+  "death.rdm.cook": "%1$s was too cooked for this world",
+  "death.rdm.gun": "%1$s got shot by 3 bullets from an Ak 2423 while walking on mars trying to buy a bottle of chocolate milk",
+  "death.rdm.egg": "%1$s ate an egg(brown) and suffocated to death",
+  "death.rdm.chop": "%1$s was soo itchy that it cut off its own leg and died from severe blood loss",
+  "death.rdm.rip": "%1$s ripped out its won hair and cried soo hard that it died due to dehydration",
+  "death.rdm.elastic": "%1$s was tooooo elastic for this world",
+  "death.rdm.type":"%1$s didn't type fast enough for this world",
+  "death.rdm.headphones": "%1$s wore headphones for too long",
+  "death.rdm.kefud?": "%1$s ate its own keyboard. WAIT THAT'S ILLEGAL ",
+  "death.rdm.hotclimate": "I said %1$s wanna see how warm my climate is? %1$s said yes, it melted in my climate, its not that hot, its only what? 35 C here?"
 }
