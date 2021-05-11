@@ -245,5 +245,15 @@
   "death.rdm.type":"%1$s didn't type fast enough for this world",
   "death.rdm.headphones": "%1$s wore headphones for too long",
   "death.rdm.kefud?": "%1$s ate its own keyboard. WAIT THAT'S ILLEGAL ",
-  "death.rdm.hotclimate": "I said %1$s wanna see how warm my climate is? %1$s said yes, it melted in my climate, its not that hot, its only what? 35 C here?"
+  "death.rdm.hotclimate": "I said %1$s wanna see how warm my climate is? %1$s said yes, it melted in my climate, its not that hot, its only what? 35 C here?",
+  "death.rdm.dinner": "Ah yes, what do we have for dinner today? Oh Yes! My Favourite : Roasted %1$s And Baked Water!",
+  "death.rdm.joke": "Nobody liked %1$s's jokes, so we ejected %1$s",
+  "death.rdm.oil": "%1$s fell into a barrel of oil and fell into a pan, %1$s turned on the pan and cooked %1$s",
+  "death.rdm.okulus": "%1$s ordered an Okulus BEANS 3 . it was broken when it arrived, %1$s died due to sadness",
+  "death.rdm.sol": "%1$s traveled above the speed of light, WAIT THAT'S ILLEGAL",
+  "death.rdm.insert": "[INSERT %1$s HERE] ANTHONY DID YOU FORGET TO INSERT %1$s AGAIN?",
+  "death.rdm.beans": "%1$s exploded after eating toooo many beans",
+  "death.rdm.infel": "%1$s's Infel Beans - Core Beanium edition got too hot and burnt up",
+  "death.rdm.brainvac": "%1$s's brain went on a vacation",
+  "death.rdm.Water": "%1$s drank tooo much water"
 }
