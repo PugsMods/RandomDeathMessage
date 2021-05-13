@@ -255,5 +255,15 @@
   "death.rdm.beans": "%1$s exploded after eating toooo many beans",
   "death.rdm.infel": "%1$s's Infel Beans - Core Beanium edition got too hot and burnt up",
   "death.rdm.brainvac": "%1$s's brain went on a vacation",
-  "death.rdm.Water": "%1$s drank tooo much water"
+  "death.rdm.Water": "%1$s drank tooo much water",
+  "death.rdm.konfused": "%1$s was too confused for this world",
+  "death.rdm.coffee": "%1$s didnt get its morning cup of coffee and deleted the universe",
+  "death.rdm.dirt": "%1$s ate soo much dirt that it turned into stone itsel",
+  "death.rdm.trip": "%1$s tripped over their HDMI cable and punched a hole into the void",
+  "death.rdm.brokeleg": "%1$s broke its leg while walking at 66 Km/h and fell into a octopus..",
+  "death.rdm.itchalot": "%1$s itched soo much that it lost 100% of its skin and it looked into a mirror and died by seeing what it looked like.",
+  "death.rdm.forgeload": "Looks like FML failed to load %1$s",
+  "death.rdm.gunfire": "%1$s was soo sus that %1$s shot %1$s with 77 bullets from an KA78",
+  "death.rdm.gas": "%1$s ran out of gas and got stuck and dehydrated to death",
+  "death.rdm.outage": "%1$s died because the Servers Of Life had a temporary outage"
 }
