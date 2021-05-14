@@ -265,5 +265,15 @@
   "death.rdm.forgeload": "Looks like FML failed to load %1$s",
   "death.rdm.gunfire": "%1$s was soo sus that %1$s shot %1$s with 77 bullets from an KA78",
   "death.rdm.gas": "%1$s ran out of gas and got stuck and dehydrated to death",
-  "death.rdm.outage": "%1$s died because the Servers Of Life had a temporary outage"
+  "death.rdm.outage": "%1$s died because the Servers Of Life had a temporary outage",
+  "death.rdm.ssd2": "%1$s wore out its ssd and crashed",
+  "death.rdm.mouse2": "%1$s went afk and got eaten by a billion rats. wait whats the difference between rat and mouse again?",
+  "death.rdm.magicsmoke": "The magic smoke came out of %1$s",
+  "death.rdm.magicsmoke2": "%1$s plugged itself into the mains after the magic smoke came out of %1$s. who knew %1$s could burn?",
+  "death.rdm.boom": "psssst %1$s pssst b00M",
+  "death.rdm.vessel": "%1$s burnt up its blood vessels. wait how?",
+  "death.rdm.ssfailapointment": "%1$s boarded the S. S. Failapointment and failed life",
+  "death.rdm.thanosseat": "%1$s sat in thanos's seat, bye %1$s",
+  "death.rdm.noh": "%1$s noh noh pls dont die cmon",
+  "death.rdm.dough": "%1$s got beaten into a dough by %1$sATRON"
 }
