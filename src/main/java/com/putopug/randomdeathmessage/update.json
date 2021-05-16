@@ -1,18 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/randomdeathmessage",
   "promos": {
-    "1.16.5-latest": "1.2.5",
-    "1.16.5-recommended": "1.2.5",
-    "1.16.4-latest": "1.2.5",
-    "1.16.4-recommended": "1.2.5",
-    "1.16.3-latest": "1.2.5",
-    "1.16.3-recommended": "1.2.5",
-    "1.16.2-latest": "1.2.5",
-    "1.16.2-recommended": "1.2.5",
-    "1.16.1-latest": "1.2.5",
-    "1.16.1-recommended": "1.2.5"
+    "1.16.5-latest": "1.2.6",
+    "1.16.5-recommended": "1.2.6",
+    "1.16.4-latest": "1.2.6",
+    "1.16.4-recommended": "1.2.6",
+    "1.16.3-latest": "1.2.6",
+    "1.16.3-recommended": "1.2.6",
+    "1.16.2-latest": "1.2.6",
+    "1.16.2-recommended": "1.2.6",
+    "1.16.1-latest": "1.2.6",
+    "1.16.1-recommended": "1.2.6"
   },
   "1.16.5": {
+    "1.2.6": "More messages, had an internet outage yesterday, sorry!",
     "1.2.5": "More Messages",
     "1.2.4": "More messages, couldnt upload a build yesterday as had an internet outage",
     "1.2.3": "More messages",
@@ -41,6 +42,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.4": {
+    "1.2.6": "More messages, had an internet outage yesterday, sorry!",
     "1.2.5": "More Messages",
     "1.2.4": "More messages, couldnt upload a build yesterday as had an internet outage",
     "1.2.3": "More messages",
@@ -69,6 +71,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.3": {
+    "1.2.6": "More messages, had an internet outage yesterday, sorry!",
     "1.2.5": "More Messages",
     "1.2.4": "More messages, couldnt upload a build yesterday as had an internet outage",
     "1.2.3": "More messages",
@@ -97,6 +100,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.2": {
+    "1.2.6": "More messages, had an internet outage yesterday, sorry!",
     "1.2.5": "More Messages",
     "1.2.4": "More messages, couldnt upload a build yesterday as had an internet outage",
     "1.2.3": "More messages",
@@ -125,6 +129,7 @@
     "1.0.0": "New Day, New Mod"
   },
   "1.16.1": {
+    "1.2.6": "More messages, had an internet outage yesterday, sorry!",
     "1.2.5": "More Messages",
     "1.2.4": "More messages, couldnt upload a build yesterday as had an internet outage",
     "1.2.3": "More messages",
