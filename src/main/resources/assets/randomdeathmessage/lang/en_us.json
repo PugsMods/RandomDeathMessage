@@ -280,7 +280,7 @@
   "death.rdm.amoogus": "%1$s got fed up of all the amoogus",
   "death.rdm.human": "Its ok, %1$s, after all, we all are human too",
   "death.rdm.accelerate": "%1$s went from 0 to 132142342342323423423 kmph in 1 ms, the gforce killed %1$s",
-  "death.rdm.thead": "%1$s got the same ad 32 times and ragequit life",
+  "death.rdm.thead": "%1$s got the1 same ad 32 times and ragequit life",
   "death.rdm.autocorrect": "%1$s life got autocorrected to air. LOL",
   "death.rdm.cmon": "%1$s got shot by bullet rain. WAIT WHEN DID CLOUDS LEARN TO USE GUNS?",
   "death.rdm.errp": "Error: Player %1$s is not a valid player for player type player",
@@ -295,5 +295,15 @@
   "death.rdm.death": "Death is coming for you %1$s, in fact, its at your base",
   "death.rdm.CaPs": "%1$s StOp UsInG tHiS hOrRiBlE wAy Of TyPiNg",
   "death.rdm.throw2": "FATAL: net.mojang.minecraft.NoSuchPlayerException: %1$s is not a valid player",
-  "death.rdm.delete": "%1$s saved and quit, went into singleplayer found save \"Life\" and deleted it"
+  "death.rdm.delete": "%1$s saved and quit, went into singleplayer found save \"Life\" and deleted it",
+  "death.rdm.throat": "%1$s had a throat infection and died due to the pain",
+  "death.rdm.spill": "%1$s spilled its cold coffee and died due to the sadness",
+  "death.rdm.work": "%1$s worked 63 hours in a day, it died due to tiredness, WAIT WHAT 63 HOURS IN 1 DAY?",
+  "death.rdm.brick": "%1$s bricked itself",
+  "death.rdm.nuke": "%1$s ate a nuke and died radiation",
+  "death.rdm.let_it_go": "%1$s left its head run away",
+  "death.rdm.boat": "%1$s boated out of life",
+  "death.rdm.pUfFeR": "%1$s got pricked by a pufferfish",
+  "death.rdm.impale": "%1$s got impaled by a arrow of 0 health",
+  "death.rdm.gun2": "PEW PEW PEW PEW %1$s dies"
 }
