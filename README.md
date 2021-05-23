@@ -14,6 +14,10 @@ Please see [this page](https://github.com/PugsMods/RandomDeathMessage/blob/1.16.
 
 Want to contribute? Contact me [here.](https://discord.gg/geNRqMu5XW)
 # Code for old versions!
+[1.2.8-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/2440d74e473b617885ad707fe36f3205dfdfc08e)
+
+[1.2.7-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/51f4de37f33cf969e0ab5dfbedc0b24203206f58)
+
 [1.2.6-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/3c8c0f0df29d911a5c516b60ca1cad71245fce24)
 
 [1.2.5-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/f6414b799bbce4eec22668796f3d603521a6425c)

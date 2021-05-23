@@ -305,5 +305,15 @@
   "death.rdm.boat": "%1$s boated out of life",
   "death.rdm.pUfFeR": "%1$s got pricked by a pufferfish",
   "death.rdm.impale": "%1$s got impaled by a arrow of 0 health",
-  "death.rdm.gun2": "PEW PEW PEW PEW %1$s dies"
+  "death.rdm.gun2": "PEW PEW PEW PEW %1$s dies",
+  "death.rdm.reload": "reload %1$s confirm, are you sure you want to nuke %1$s? yes. wait nO NO ",
+  "death.rdm.pen": "%1$s got converted into a pen",
+  "death.rdm.íoexception": "Error: jaavaah.languiage.IoException: failed to save %1$s : no storage left",
+  "death.rdm.npe": "Error Janguaje.java.NullPointerException: %1$s is null but Player cannot take playertype null",
+  "death.rdm.cnoerr": "Error: %1$s creativity was not found",
+  "death.rdm.noohbeh": "Ownoh %1$s dieud, ime vevy sowy ill thrie to revive",
+  "death.rdm.yeehPCh": "%1$s yeeted his pc into the nearest sun",
+  "death.rdm.ketup": "%1$s saw ketchup and thought it was the red liquid inside humans and fainted",
+  "death.rdm.read": "%1$s trued to read but got bad memories from 77th grade and yeeted this Book-Pc out of the door",
+  "death.rdm.gr": "/gamerule make%1$sDieRn true"
 }
