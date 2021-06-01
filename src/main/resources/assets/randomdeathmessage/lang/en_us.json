@@ -315,5 +315,12 @@
   "death.rdm.yeehPCh": "%1$s yeeted his pc into the nearest sun",
   "death.rdm.ketup": "%1$s saw ketchup and thought it was the red liquid inside humans and fainted",
   "death.rdm.read": "%1$s trued to read but got bad memories from 77th grade and yeeted this Book-Pc out of the door",
-  "death.rdm.gr": "/gamerule make%1$sDieRn true"
+  "death.rdm.gr": "/gamerule make%1$sDieRn true",
+  "death.rdm.beans3":"%1$s was too fond of beans",
+  "death.rdm.wet":"%1$s was too wet",
+  "death.rdm.ghost":"%1$s was an ghost and died",
+  "death.rdm.tramp":"%1$s was electrocuted by a trampoline",
+  "death.rdm.des3001":"%1$s broke trampoline and Destroyer3001 beacme angry and :gunshots:",
+  "death.rdm.alive":"%1$s was too alive for this world",
+  "death.rdm.concern": "%1$s was too concerning for this world"
 }
