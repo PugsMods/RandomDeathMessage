@@ -15,31 +15,6 @@ import org.apache.logging.log4j.Logger;
 @Mod("randomdeathmessage")
 public class RngDeathMsg
 {
-    private static final Logger LOGGER = LogManager.getLogger();
-
     public RngDeathMsg() {
-        FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
-        FMLJavaModLoadingContext.get().getModEventBus().addListener(this::enqueueIMC);
-        FMLJavaModLoadingContext.get().getModEventBus().addListener(this::processIMC);
-        FMLJavaModLoadingContext.get().getModEventBus().addListener(this::doClientStuff);
-        MinecraftForge.EVENT_BUS.register(this);
-    }
-    private void setup(final FMLCommonSetupEvent event)
-    {
-        LOGGER.warn("RandomDeathMessage - Copyright PutoPug/PugzAreCute 2021");
-    }
-
-    private void doClientStuff(final FMLClientSetupEvent event) {
-    }
-
-    private void enqueueIMC(final InterModEnqueueEvent event)
-    {
-    }
-
-    private void processIMC(final InterModProcessEvent event)
-    {
-    }
-    @SubscribeEvent
-    public void onServerStarting(FMLServerStartingEvent event) {
     }
 }
