@@ -14,8 +14,8 @@ Please see [this page](https://github.com/PugsMods/RandomDeathMessage/blob/1.16.
 
 Want to contribute? Contact me [here.](https://discord.gg/geNRqMu5XW)
 
-RDM is licenced under GNU General Public Licence Version 3
+RDM is licenced under GNU General Public Licence Version 3, you can find a copy at https://www.gnu.org/licenses/
 
-# Code for old versions!
+# Code for old versions
 
 [Please look at VERSIONS.md](VERSIONS.md)
