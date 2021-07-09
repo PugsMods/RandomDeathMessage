@@ -322,5 +322,8 @@
   "death.rdm.tramp":"%1$s was electrocuted by a trampoline",
   "death.rdm.des3001":"%1$s broke trampoline and Destroyer3001 beacme angry and :gunshots:",
   "death.rdm.alive":"%1$s was too alive for this world",
-  "death.rdm.concern": "%1$s was too concerning for this world"
+  "death.rdm.concern": "%1$s was too concerning for this world",
+  "death.rdm.tree": "%1$s left floating trees behind",
+  "death.rdm.stare": "%1$s stared at a petrified oak slab and died after it's heart got paralyzed",
+  "death.rdm.mlg": "%1$s did too many MLG's"
 }
