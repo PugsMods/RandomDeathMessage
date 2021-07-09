@@ -13,4 +13,9 @@ Random death messages in minecraft!
 Please see [this page](https://github.com/PugsMods/RandomDeathMessage/blob/1.16.X/CONTRIBUTORS.md)
 
 Want to contribute? Contact me [here.](https://discord.gg/geNRqMu5XW)
+
+RDM is licenced under GNU General Public Licence Version 3
+
 # Code for old versions!
+
+[Please look at VERSIONS.md](VERSIONS.md)

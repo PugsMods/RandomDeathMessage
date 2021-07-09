@@ -1,4 +1,4 @@
-# RDM Versions
+# RDM Versions are listed below:
 [1.2.8-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/2440d74e473b617885ad707fe36f3205dfdfc08e)
 
 [1.2.7-1.16.X](https://github.com/PugsMods/RandomDeathMessage/tree/51f4de37f33cf969e0ab5dfbedc0b24203206f58)
