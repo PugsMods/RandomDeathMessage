@@ -325,5 +325,9 @@
   "death.rdm.concern": "%1$s was too concerning for this world",
   "death.rdm.tree": "%1$s left floating trees behind",
   "death.rdm.stare": "%1$s stared at a petrified oak slab and died after it's heart got paralyzed",
-  "death.rdm.mlg": "%1$s did too many MLG's"
+  "death.rdm.mlg": "%1$s did too many MLG's",
+  "death.rdm.lifeoverflow": "%1$s regenerated soo much that it triggered a life overflow",
+  "death.rdm.pla": "%1$s broke the Player Life Agreement",
+  "death.rdm.llama": "%1$s challenged a llama to a spit off. Llama spat a llama into %1$s's heart which spat at its heart aobut 10 seconds ago",
+  "death.rdm.snap": "chmod +x playertools.sh && ./playertools --player=%1$s --action=snap_neck"
 }
