@@ -329,5 +329,6 @@
   "death.rdm.lifeoverflow": "%1$s regenerated soo much that it triggered a life overflow",
   "death.rdm.pla": "%1$s broke the Player Life Agreement",
   "death.rdm.llama": "%1$s challenged a llama to a spit off. Llama spat a llama into %1$s's heart which spat at its heart aobut 10 seconds ago",
-  "death.rdm.snap": "chmod +x playertools.sh && ./playertools --player=%1$s --action=snap_neck"
+  "death.rdm.snap": "chmod +x playertools.sh && ./playertools --player=%1$s --action=snap_neck",
+  "death.rdm.breaking_news": "Breaking News: Hello its me Pugz and im currently inside %1$s's mind to do a weather report. We have 30kmph winds going in the east and 90% humidity. It is expected to rain later on today. Current temperature: 201C"
 }
