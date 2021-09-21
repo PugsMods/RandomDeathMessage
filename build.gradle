@@ -67,10 +67,10 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.17.1-37.0.9'
+    minecraft 'net.minecraftforge:forge:1.17.1-37.0.70'
     annotationProcessor 'org.spongepowered:mixin:0.8.3:processor'
 }
-////////////////
+
 // IntelliJ Project Import
 // The Mixin annotation process does not have an obfuscation source when running through the IntelliJ compiler,
 // thus we have to prevent it from being activated as part of importing this Gradle project into IntelliJ.
