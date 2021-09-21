@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[32,)"
-license="GNU General Public License V3"
+license="GNU Lesser General Public License V3"
 issueTrackerURL="https://github.com/PugsMods/RandomDeathMessage/issues"
 [[mods]]
 modId="randomdeathmessage"
