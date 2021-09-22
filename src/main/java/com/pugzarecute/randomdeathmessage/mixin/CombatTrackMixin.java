@@ -15,7 +15,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.putopug.randomdeathmessage.mixin;
+package com.pugzarecute.randomdeathmessage.mixin;
 
 import com.google.common.collect.Lists;
 import net.minecraft.entity.Entity;
@@ -32,7 +32,7 @@ import org.spongepowered.asm.mixin.Overwrite;
 import java.util.List;
 import java.util.Random;
 
-@Mixin(CombatTracker.class)
+
 public class CombatTrackMixin {
 
     /**

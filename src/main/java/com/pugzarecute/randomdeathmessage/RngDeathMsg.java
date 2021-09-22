@@ -1,4 +1,4 @@
-package com.putopug.randomdeathmessage;
+package com.pugzarecute.randomdeathmessage;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

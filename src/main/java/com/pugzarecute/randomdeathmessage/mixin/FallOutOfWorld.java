@@ -15,7 +15,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.putopug.randomdeathmessage.mixin;
+package com.pugzarecute.randomdeathmessage.mixin;
 
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.util.DamageSource;
