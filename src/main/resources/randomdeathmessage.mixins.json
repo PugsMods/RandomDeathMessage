@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.putopug.randomdeathmessage.mixin",
+  "package": "com.pugzarecute.randomdeathmessage.mixin",
   "compatibilityLevel": "JAVA_8",
   "refmap": "randomdeathmessage.refmap.json",
   "mixins": [
