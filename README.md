@@ -10,7 +10,7 @@
 Random death messages in minecraft!
 
 # Contributors!
-Please see [this page](https://github.com/PugsMods/RandomDeathMessage/blob/1.16.X/CONTRIBUTORS.md)
+Please see [this page](https://github.com/PugsMods/RandomDeathMessage/blob/1.17X/CONTRIBUTORS.md)
 
 Want to contribute? Contact me [here.](https://discord.gg/geNRqMu5XW)
 
