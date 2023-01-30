@@ -7,6 +7,7 @@
 [![Discord](https://img.shields.io/discord/773211530413867028?label=Discord%3A&style=for-the-badge)](https://discord.gg/geNRqMu5XW)
 
 # RandomDeathMessage
+
 Random death messages in minecraft!
 
 # Contributors!

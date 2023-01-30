@@ -15,12 +15,12 @@ description='''Random death messages!'''
 [[dependencies.randomdeathmessage]]
     modId="forge"
     mandatory=true
-    versionRange="[32,37)"
+    versionRange="[40,41)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.randomdeathmessage]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16,1.17)"
+    versionRange="[1.18.2,1.19)"
     ordering="NONE"
     side="BOTH"

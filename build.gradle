@@ -14,11 +14,11 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: 'org.spongepowered.mixin'
 
-version = '1.2.6'
+version = '2.NEXT'
 group = 'com.pugzarecute'
-archivesBaseName = 'randomdeathmessage'
+archivesBaseName = 'RandomDeathMessage'
 
-java.toolchain.languageVersion = JavaLanguageVersion.of(16)
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 mixin {
@@ -67,8 +67,9 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.18-38.0.1'
+    minecraft 'net.minecraftforge:forge:1.18.2-40.2.0'
     annotationProcessor 'org.spongepowered:mixin:0.8.3:processor'
+    implementation 'com.google.code.gson:gson:2.10.1'
 }
 
 // IntelliJ Project Import
@@ -87,9 +88,9 @@ jar {
         attributes([
             "Specification-Title": "RandomDeathMessage",
             "Specification-Vendor": "PugsMods",
-            "Specification-Version": "1",
+            "Specification-Version": "2",
             "Implementation-Title": project.name,
-            "Implementation-Version": "1",
+            "Implementation-Version": "2",
             "Implementation-Vendor" :"PugsMods",
             "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
             "MixinConfigs": "randomdeathmessage.mixins.json"
