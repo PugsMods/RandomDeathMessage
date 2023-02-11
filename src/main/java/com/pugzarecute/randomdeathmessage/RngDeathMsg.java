@@ -1,41 +1,51 @@
 package com.pugzarecute.randomdeathmessage;
 
-import com.google.gson.Gson;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
-import net.minecraft.world.entity.LivingEntity;
 import net.minecraftforge.fml.common.Mod;
 
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.net.MalformedURLException;
-import java.util.Map;
+import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.*;
 
 @Mod("randomdeathmessage")
 public class RngDeathMsg
 {
+    public static final URL REMOTE_URL;
+
+    static {
+        try {
+            REMOTE_URL = new URL("https://raw.githubusercontent.com/PugsMods/RandomDeathMessage/1.18.2/src/main/resources/messages.txt");
+        } catch (MalformedURLException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public static final List<String> MESSAGES = initRDM();
+
     public RngDeathMsg() {
     }
-    public static final String[] allowedDeaths = initRDM();
-
-    public static String[] initRDM() {
+    public static List<String> initRDM() {
 
         //The compiled jar will have a hardcoded json which can only be updated by updating the mod.
         //Possible config to change url and to force hardcoded json.
 
-
-        final JsonObject messages;
+        //you gigabrain use a text file
         try {
-            messages = new Gson().toJsonTree(new InputStreamReader(new java.net.URL("gethub.com/rdm/blehbleh").openStream())).getAsJsonObject();
+            List<String> returnList = new ArrayList<>();
+            Scanner s = new Scanner(REMOTE_URL.openStream());
+            while (s.hasNextLine()) returnList.add(s.nextLine());
+            return returnList;
         } catch (IOException e) {
-            throw new RuntimeException("Remote JSON Request Failiure. Switch to hardcoded json");
+            System.out.println("Remote messages failure. Use fallback.");
+
+            try {
+                return Files.readAllLines(Path.of(RngDeathMsg.class.getResource("/messages.txt").getPath()));
+            } catch (IOException ex) {
+                System.out.println("RDM Total Failiure.");
+                throw new RuntimeException(ex);
+            }
         }
-        String[] messagesArray = new String[messages.size()+1];
-        int i=0;
-        for(Map.Entry<String, JsonElement> entry : messages.entrySet()) {
-            messagesArray[i] = entry.getValue().getAsString();
-            i++;
-        }
-        return messagesArray;
     }
 }
