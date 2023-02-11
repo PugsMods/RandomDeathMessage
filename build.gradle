@@ -69,7 +69,6 @@ sourceSets.main.resources { srcDir 'src/generated/resources' }
 dependencies {
     minecraft 'net.minecraftforge:forge:1.18.2-40.2.0'
     annotationProcessor 'org.spongepowered:mixin:0.8.3:processor'
-    implementation 'com.google.code.gson:gson:2.10.1'
 }
 
 // IntelliJ Project Import
