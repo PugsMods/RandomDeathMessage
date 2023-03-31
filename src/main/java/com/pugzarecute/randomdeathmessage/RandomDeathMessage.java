@@ -10,7 +10,7 @@ import java.nio.file.Path;
 import java.util.*;
 
 @Mod("randomdeathmessage")
-public class RngDeathMsg
+public class RandomDeathMessage
 {
     public static final URL REMOTE_URL;
 
@@ -24,7 +24,7 @@ public class RngDeathMsg
 
     public static final List<String> MESSAGES = initRDM();
 
-    public RngDeathMsg() {
+    public RandomDeathMessage() {
     }
     public static List<String> initRDM() {
 
@@ -41,7 +41,7 @@ public class RngDeathMsg
             System.out.println("Remote messages failure. Use fallback.");
 
             try {
-                return Files.readAllLines(Path.of(RngDeathMsg.class.getResource("/messages.txt").getPath()));
+                return Files.readAllLines(Path.of(RandomDeathMessage.class.getResource("/messages.txt").getPath()));
             } catch (IOException ex) {
                 System.out.println("RDM Total Failiure.");
                 throw new RuntimeException(ex);

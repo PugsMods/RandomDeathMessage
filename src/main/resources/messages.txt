@@ -3,4 +3,4 @@
 <rdm.player.name>, I told you to NOT press the big red button that says press. The last three people who worked here pressed that and disappeared.
 <rdm.player.name> had a severe migrane.
 <rdm.player.name> decided to run rm -rf / on its internal shell.
-<rdm.player.name>: I want to fly. \n\rMe: You want to die? sure. \n\r<rdm.player.name>: NOOOO\n\r<rdm.player.name> died.
+<rdm.player.name>: I want to fly. <rdm.format.newline>Me: You want to die? sure. <rdm.format.newline><rdm.player.name>: NOOOO<rdm.format.newline><rdm.player.name> died.

@@ -4,7 +4,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "randomdeathmessage.refmap.json",
   "mixins": [
-    "EntityDamageSrc"
+    "CombatTrackMixin"
   ],
   "minVersion": "0.8"
 }
