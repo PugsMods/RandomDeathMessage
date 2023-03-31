@@ -18,7 +18,6 @@
 package com.pugzarecute.randomdeathmessage.mixin;
 
 import com.pugzarecute.randomdeathmessage.RandomDeathMessage;
-import net.minecraft.network.chat.CommonComponents;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.TextComponent;
 import net.minecraft.world.damagesource.DamageSource;
@@ -26,9 +25,6 @@ import net.minecraft.world.entity.LivingEntity;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Overwrite;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 
@@ -44,6 +40,9 @@ public class CombatTrackMixin {
 
 
         String message = RandomDeathMessage.MESSAGES.get(ThreadLocalRandom.current().nextInt(0, RandomDeathMessage.MESSAGES.size())).replaceAll("<rdm[.]player[.]name>",entity.getDisplayName().getString());
+        /*
+        IMPL WORKS BUT DOES NOT RENDER PROPERLY ON DEATHSCREEN(MC ISSUE)
+
         List<String> list = new ArrayList<>(Arrays.stream(message.split("<rdm[.]format[.]newline>")).toList());
         List<TextComponent> textComponents= new ArrayList<>();
         for (String s:
@@ -52,6 +51,7 @@ public class CombatTrackMixin {
             textComponents.add(new TextComponent(s.replaceAll("<rdm[.]format[.]newline>","")));
         }
 
-        return CommonComponents.joinLines(textComponents);
+        return CommonComponents.joinLines(textComponents);*/
+        return new TextComponent(message);
     }
 }
