@@ -1,6 +1,6 @@
-%1$s failed at live.
-%1$s disrespected pugs. PUGS ARE CUTE.
-%1$s, I told you to NOT press the big red button that says press. The last three people who worked here pressed that and disappeared.
-%1$s had a severe migrane.
-%1$s decided to run rm -rf / on its internal shell.
-%1$s: I want to fly. \nMe: Die! sure. \n%1$s: NOOOO\n%1$s died.
+<rdm.player.name> failed to live.
+<rdm.player.name> disrespected pugs. PUGS ARE CUTE.
+<rdm.player.name>, I told you to NOT press the big red button that says press. The last three people who worked here pressed that and disappeared.
+<rdm.player.name> had a severe migrane.
+<rdm.player.name> decided to run rm -rf / on its internal shell.
+<rdm.player.name>: I want to fly. \nMe: You want to die? sure. \n<rdm.player.name>: NOOOO\n<rdm.player.name> died.
